@@ -1,0 +1,416 @@
+
+
+
+
+@media(min-width:991.98px) and (max-width:1199.98px){
+    .banner-inner-content {
+        padding-top: 80px;
+    }
+    .features-main {
+        padding-top:100px;
+    }
+    .banner-side-main.position-relative {
+        top: 72px;
+    }
+    .features-inner-box {
+        margin: 10px;
+    }
+    .green {
+        transform: translateX(-14px) rotate(3deg);
+    }
+    .girl-icon {
+        bottom: -58px;
+        right: -79px;
+    }
+    .fun-fact-img{
+        padding-top: 185px;
+    }
+    .service-inner-box {
+       margin-left: 20px!important;
+       margin-right: 0!important;
+    }
+    .blog-heading h3 {
+        padding-right: 0;
+    }  
+    .team-main:hover .team-circle {
+        left: 40px;
+    }
+    .pricing-header p {
+        padding: 5px 236px 3px 0;
+    }
+    .pricing-box{
+        margin: 0!important;
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    .mike{
+        margin-top: 370px;
+    }
+    .footer-content {
+        top: 97px;
+        left: 128px;
+    }
+    .footer-inner-content h3 {
+        font-size: 18px;
+    }
+    .footer-inner-content p {
+        font-size: 14px;
+    }
+    .footer-left-main{
+        padding-top: 165px;
+    }
+    #end {
+        margin-top: 43px;
+    }
+
+
+
+}
+
+
+@media(min-width:767.98px) and (max-width:991.98px){
+    .navbar-side-button {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+        color:#6D44FD;
+    }
+    .banner-inner-content h1 {
+        font-size: 72px;
+        padding-right: 0px;
+    }
+    .features-main {
+        padding-top: 545px;
+    }
+    .banner-side-main.position-relative {
+        top: 72px;
+    }
+    .green {
+        transform: translateX(-28px) rotate(3deg);
+    }
+    .girl-icon {
+        bottom: -95px;
+        right: -45px;
+    }
+    .crup::after {
+        visibility: hidden;
+    }
+    .clise::before {
+        visibility: hidden;
+    }
+    .jigtar{
+        padding-bottom: 30px;
+    }
+    .cargit {
+        top: 0px;
+    }
+    .team-main-padding {
+        padding-top: 425px;
+    }
+    .team-main-padding {
+        padding-top: 690px;
+    }
+    .blog-heading h3 {
+        padding-right: 0px;
+   }
+   .team-circle span {
+	 right: 30px;
+    }
+    .team-circle a {
+        right: 83px;
+        top: 28px;
+    }
+    .team-circle a {
+        right: 40px;
+        top: 24px;
+    }
+    .third {
+        right: 63px !important;
+    }
+    .faq-img-parent.position-relative {
+        top: 160px;
+    }
+    #faq {
+        padding-bottom: 100px;
+    }
+    .pricing-header h3{
+        font-size: 36px;
+    }
+    .pricing-header p {
+        padding: 5px 5px 3px 0;
+    }
+    .pricing-box{
+        margin: 0!important;
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+    .pricing-content h2 {
+        font-size: 42px;
+    }
+    .mike{
+        margin-top: 370px;
+    }
+    .footer-title {
+        padding-top: 20px;
+    }
+    .priest{
+        margin-bottom: 20px;
+    }
+    #end {
+        margin-top: 43px;
+    }
+
+
+
+    
+}
+
+
+
+
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-side-button {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+        color:#6D44FD;
+    }
+    .banner-inner-content h1 {
+        font-size: 57px;
+        padding-right: 0px;
+    }
+    .features-main {
+        padding-top: 545px;
+    }
+    .banner-side-main.position-relative {
+        top: 72px;
+    }
+    .green {
+        transform: translateX(-28px) rotate(3deg);
+    }
+    .girl-icon {
+        bottom: -95px;
+        right: -45px;
+    }
+    .crup::after {
+        visibility: hidden;
+    }
+    .clise::before {
+        visibility: hidden;
+    }
+    .jigtar{
+        padding-bottom: 30px;
+    }
+    .cargit {
+        top: 0px;
+    }
+    .team-main-padding {
+        padding-top: 425px;
+    }
+    .team-main-padding {
+        padding-top: 690px;
+    }
+    .blog-heading h3 {
+        padding-right: 0px;
+   }
+   .team-circle span {
+	 right: 80px;
+    }
+    .team-circle a {
+        right: 83px;
+        top: 28px;
+    }
+    .first {
+        right: 65px !important;
+        z-index: 99 !important;
+        top: 94px !important;
+    }
+    .second {
+        right: 80px !important;
+        top: 160px !important;
+    }
+    .third {
+        right: 130px !important;
+        top: 200px !important;
+    }
+    .faq-img-parent.position-relative {
+        top: 160px;
+    }
+    #pricing {
+        padding-top: 450px;
+    }
+    .pricing-header p {
+        padding: 5px 5px 3px 0;
+    }
+    .marghit{
+        margin: 30px 0!important;
+    }
+    #testimonial {
+        padding-top: 390px;
+    }
+    .brightend{
+        margin-top: 0px!important;
+    }
+    .testimonial-img-back {
+        margin-bottom: 600px;
+    }
+    .testimonial-content-box {
+        top: 21px;
+        padding: 55px 28px;
+    }
+    .testimonial-content p {
+        margin-left: 110px;
+    }
+    .testimonial-img-back {
+        margin-bottom: 392px;
+    }
+    #footer {
+        padding-top: 0px;
+    }
+    .footer-content {
+        top: 118px;
+        left: 132px;
+    }
+    .priest{
+        margin-bottom: 20px;
+    }
+    #end {
+        margin-top: 43px;
+    }
+}
+
+@media(max-width:575.98px){
+    .navbar-side-button {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+        color:#6D44FD;
+    }
+    .banner-inner-content h1 {
+        font-size: 48px;
+        padding-right: 0;
+    }
+    .banner-inner-content a {
+        padding: 7px 21px;
+        margin-right: 5px;
+    }
+    .banner-side-main.position-relative {
+        top: 53px;
+    }
+    .features-main {
+        padding-top: 325px;
+    }
+    .green {
+        transform: translateX(-28px) rotate(3deg);
+    }
+    .girl-icon {
+        right: -40px;
+    }
+    .fun-facts-left-img {
+        visibility: hidden;
+    }
+    .fun-facts-right-img {
+        visibility: hidden;
+    }
+    .fun-fact-img.position-relative {
+        padding-bottom: 65px;
+    }
+    .crup::after {
+        visibility: hidden;
+    }
+    .clise::before {
+        visibility: hidden;
+    }
+    .jigtar{
+        padding-bottom: 30px;
+    }
+    .services-main {
+        padding-top: 79px;
+    }
+    .cargit {
+        top: 0px;
+    }
+    .team-main-padding {
+        padding-top: 425px;
+    }
+    .blog-heading h3 {
+         padding-right: 0px;
+    }
+    .team-circle span {
+        right: 11px;
+    }
+    .team-circle a {
+        right: 16px;
+    }
+    .blog-heading h3 {
+        padding-right: 0px;
+    }
+    .first {
+        right: -2px !important;
+        z-index: 99 !important;
+        top: 83px !important;
+    }
+    .second {
+        right: 12px !important;
+        top: 146px !important;
+    }
+    .third {
+        right: 40px !important;
+        top: 194px !important;
+    }
+    .faq-img-parent.position-relative {
+        top: 160px;
+    }
+    #pricing {
+        padding-top: 230px;
+    }
+    .pricing-header p {
+        padding: 5px 0px 0;
+    }
+    .marghit{
+        margin: 30px 0!important;
+    }
+    .blog-heading h3 {
+        padding-right: 0px;
+    }
+    #testimonial {
+        padding-top: 390px;
+    }
+    .brightend{
+        margin-top: 0px!important;
+    }
+    .nnn{
+        margin-top: 50px!important;
+    }
+    .testimonial-img-back {
+        margin-bottom: 600px;
+    }
+    .testimonial-content-box {
+        top: 271px;
+        left: -180px;
+    }
+    .testimonial-content p {
+        margin-left: 17px;
+    }
+    #footer {
+        padding-top: 0px;
+    }
+    .footer-inner-img img{
+        display: none;
+    }
+    .footer-content {
+        top: -17px;
+        left: 35px;
+        position: relative!important;
+    }
+    .footer-inner-content p {
+      padding-right: 0;
+    }
+    .priest{
+        margin-bottom: 20px;
+    }
+    #end {
+        margin-top: 43px;
+    }
+
+}
